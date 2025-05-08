@@ -1,0 +1,4 @@
+#To Run the Dashboards and .ipynb file for sales prediction
+1. Make sure the path on tableau for the datasets is provided correctly.
+2. Dashboards are dynamic, once datasers are placed, data can be visualized.
+3. FOr Python file, make sure the .ipynb file is opened and the dataset is added. Run the file.
